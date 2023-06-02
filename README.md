@@ -28,8 +28,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=007396"/>
-  <img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=F05138" />
-  <img src="https://img.shields.io/badge/ReactNative-white?style=flat&logo=ReactNative&logoColor=F05138" />
+  <img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=#025373" />
+  <img src="https://img.shields.io/badge/ReactNative-white?style=flat&logo=ReactNative&logoColor=#025373" />
   <img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=CSS3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=JavaScript&logoColor=F7DF1E" />
