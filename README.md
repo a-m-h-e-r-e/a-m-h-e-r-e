@@ -10,7 +10,7 @@
 <p align="center">
   <strong>🔭 I’m working at <a href="https://familysooq.com">Familysooq</a> at TopTech</strong><br>
   <strong>🌱 I’m currently learning Deep Learning and Computer Vision</strong><br>
-  <strong>👯 I'm 2020 ICPC world finalist - <a href="https://github.com/JNU-econovation">Econovation</a></strong><br>
+  <strong>👯 I'm 2020 ICPC world finalist - <a href="[https://github.com/JNU-econovation](https://icpc.global/worldfinals/teams)">ICPC</a></strong><br>
   <strong>📫 How to reach me:</strong><br>
   📧 <a href="mailto:heiruamir@gmail.com">heiruamir@gmail.com</a><br>
   📧 <a href="mailto:amir@toptech.et">amir@toptech.et</a>
