@@ -51,6 +51,7 @@
 <div align=center>
 	<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white" />
 	<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<img src="https://img.shields.io/badge/vim-007ACC?style=flat&logo=vim&logoColor=white" />
 	<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
   <br>
