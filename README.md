@@ -1,7 +1,7 @@
-
+<!-- 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Maestr.oh's%20Hub&fontSize=50" />
-</div>
+</div> -->
 
 <h1 align="center">👋 Hello, ሰላም</h1>
 
