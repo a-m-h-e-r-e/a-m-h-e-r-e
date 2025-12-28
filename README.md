@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <strong>🔭 I’m working at <a href="https://familysooq.com">Familysooq</a> at TopTech as a project manager and fullstack dev</strong><br>
+  <strong>🔭 I’m working at <a href="https://seleda.et">Seleda Ethiopia</a> at TopTech as a project manager and fullstack dev</strong><br>
   <strong>🌱 I’m currently learning Deep Learning and Computer Vision</strong><br>
   <strong>👯 I'm 2020 ICPC world finalist - <a href="[https://github.com/JNU-econovation](https://icpc.global/worldfinals/teams)">ICPC</a></strong><br>
   <strong>📫 How to reach me:</strong><br>
